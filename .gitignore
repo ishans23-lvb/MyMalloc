@@ -1,0 +1,11 @@
+*.o
+*.out
+*.so
+*.DS_Store
+.DS_Store
+.DS_Store*
+.DS_Store?
+._*
+*.so
+*.tar
+*.zip
