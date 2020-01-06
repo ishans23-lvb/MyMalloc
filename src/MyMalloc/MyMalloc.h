@@ -15,9 +15,6 @@
 #include <assert.h>
 
 
-#ifndef DEBUG
-#error
-#endif
 
 #define BLOCK_HEADER_SIZE sizeof(size_t)
 #define BLOCK_FOOTER_SIZE sizeof(size_t)
